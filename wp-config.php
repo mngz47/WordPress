@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'iv0u5pc9v7iwelie' );
 
 /** Database username */
-define( 'DB_USER', 'dqytt6jd0t5udbtb' );
+define( 'DB_USER', 'uuvwqzceolg37luk' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'crs13bgytkxip36a' );
+define( 'DB_PASSWORD', 'wlm0oihnlik7lv1f' );
 
 /** Database hostname */
 define( 'DB_HOST', 'cxmgkzhk95kfgbq4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
